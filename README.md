@@ -9,9 +9,7 @@ gan_gt.py is the model file
 
 Gan_train_2.py is the training file
 
-# Pretrained model
 
-The pre-trained model will be uploaded in two weeks (Chinese New Year).
 
 # Grateful
 
